@@ -1,6 +1,6 @@
 # SocialBox-Termux
 SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By MyeRs
-# Installation
+# Kurulum
 ```
 apt-get update
 apt-get install git
@@ -13,5 +13,5 @@ chmod +x install-sb.sh
 ```
 # Ekran Görüntüsü :
 ![Deneme Resim 8](https://github.com/samsesh/SocialBox-Termux/blob/master/Screenshots/sb.png)
-# Tested On :
+# Denendi :
 * Termux on andriod (Vpn ile tor 'a  bağlanın)
