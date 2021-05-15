@@ -11,7 +11,5 @@ chmod +x install-sb.sh
 ./install-sb.sh
 ./SocialBox.sh
 ```
-# Ekran Görüntüsü :
-![Deneme Resim 8](https://github.com/samsesh/SocialBox-Termux/blob/master/Screenshots/sb.png)
 # Denendi :
 * Termux on andriod (Vpn ile tor 'a  bağlanın)
