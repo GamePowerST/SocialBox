@@ -12,4 +12,5 @@ chmod +x install-sb.sh
 ./SocialBox.sh
 ```
 # Denendi :
-* Termux on andriod (Vpn ile tor 'a  bağlanın)
+* Termux Android Üzerinde (Vpn ile tor 'a  bağlanın)
+* Kali Terminal Üzerinde
