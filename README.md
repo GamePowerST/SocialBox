@@ -1,5 +1,5 @@
 # SocialBox Kali & Termux
-SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , edited by taurus
+SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] Edited by taurus
 # Kurulum
 ```
 apt-get update
